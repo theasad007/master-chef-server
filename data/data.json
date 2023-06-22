@@ -1,0 +1,661 @@
+ [
+        {
+            "id": 1,
+            "name": "Moushumi",
+            "picture": "https://i.postimg.cc/MTmXMztF/chef-01.jpg",
+            "bio": "Moushumi is a renowned chef from Chittagong with over 20 years of experience in cooking authentic Bangladeshi cuisine.",
+            "rating": 4.5,
+            "yearsOfExperience": 20,
+            "like": 15000,
+            "recipes": [
+                {
+                    "recipeId": 1,
+                    "name": "Chittagong Morog Polao",
+                    "image": "https://i.postimg.cc/nc3xsXxm/chicken-pilaf.jpg",
+                    "ingredients": [
+                        "Chicken",
+                        "Basmati Rice",
+                        "Onion",
+                        "Garlic",
+                        "Ginger",
+                        "Bay Leaf",
+                        "Cinnamon",
+                        "Cardamom",
+                        "Cloves",
+                        "Yogurt",
+                        "Oil",
+                        "Water"
+                    ],
+                    "instructions": [
+                        "Marinate the chicken with yogurt, garlic, ginger, and spices.",
+                        "Fry the onions in oil until golden brown.",
+                        "Add the marinated chicken and cook until the meat is tender.",
+                        "Boil the rice with spices and water.",
+                        "Layer the rice and chicken in a pot and cook on low heat for 30 minutes.",
+                        "Serve hot with raita and salad."
+                    ]
+                },
+                {
+                    "recipeId": 2,
+                    "name": "Shutki Bhorta",
+                    "image": "https://i.postimg.cc/fTq4z17j/shutki.jpg",
+                    "ingredients": [
+                        "Dried Fish",
+                        "Onion",
+                        "Garlic",
+                        "Green chili",
+                        "Mustard oil",
+                        "Salt"
+                    ],
+                    "instructions": [
+                        "Soak the dried fish in water for 30 minutes.",
+                        "Boil the fish until it is soft.",
+                        "Fry the onions, garlic, and green chili in mustard oil.",
+                        "Add the boiled fish to the pan and mash it with a fork.",
+                        "Add salt to taste.",
+                        "Serve hot with steamed rice."
+                    ]
+                },
+                {
+                    "recipeId": 3,
+                    "name": "Ras Malai",
+                    "image": "https://i.postimg.cc/kGw0tp0C/roshmalai.jpg",
+                    "ingredients": [
+                        "Milk",
+                        "Sugar",
+                        "Lemon juice",
+                        "Cardamom",
+                        "Water"
+                    ],
+                    "instructions": [
+                        "Boil the milk and add lemon juice to curdle it.",
+                        "Drain the curdled milk in a muslin cloth and wash it with water.",
+                        "Hang the cloth for a few hours to remove excess water.",
+                        "Knead the milk solids to form small balls.",
+                        "Boil sugar, cardamom, and water to make a syrup.",
+                        "Add the milk balls to the syrup and cook for a few minutes.",
+                        "Serve chilled."
+                    ]
+                },
+                {
+                    "recipeId": 4,
+                    "name": "Kacchi Biryani",
+                    "image": "https://i.postimg.cc/qqLTxRC9/kacchi.jpg",
+                    "ingredients": [
+                        "Mutton",
+                        "Basmati Rice",
+                        "Onion",
+                        "Garlic",
+                        "Ginger",
+                        "Bay Leaf",
+                        "Cinnamon",
+                        "Cardamom",
+                        "Cloves",
+                        "Yogurt",
+                        "Oil",
+                        "Water"
+                    ],
+                    "instructions": [
+                        "Soak the rice in water for 30 minutes.",
+                        "Marinate the mutton with yogurt, garlic, ginger, and spices.",
+                        "Fry the onions in oil until golden brown.",
+                        "Add the marinated mutton and cook until the meat is tender.",
+                        "Boil the rice with spices and water.",
+                        "Layer the rice and meat in a pot and cook on low heat for 30 minutes.",
+                        "Serve hot with raita and salad."
+                    ]
+                },
+                {
+                    "recipeId": 5,
+                    "name": "Shorshe Ilish",
+                    "image": "https://i.postimg.cc/QtcsVSNN/ilish.jpg",
+                    "ingredients": [
+                        "Hilsa fish",
+                        "Mustard oil",
+                        "Mustard seeds",
+                        "Green chili",
+                        "Turmeric powder",
+                        "Salt",
+                        "Sugar",
+                        "Water"
+                    ],
+                    "instructions": [
+                        "Marinate the fish with salt and turmeric powder.",
+                        "Fry the fish in mustard oil.",
+                        "In a separate pan, add mustard seeds, green chili, and water.",
+                        "Add the fried fish to the pan and cook for a few minutes.",
+                        "Add sugar to taste.",
+                        "Serve hot with steamed rice."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Elias Kanchan",
+            "picture": "https://i.postimg.cc/NFGFRZzf/chef-02.jpg",
+            "bio": "Vaban Kumar is a master chef from Dhaka with over 25 years of experience in cooking authentic Bangladeshi cuisine.",
+            "rating": 4.8,
+            "yearsOfExperience": 25,
+            "like": 20000,
+            "recipes": [
+                {
+                    "recipeId": 1,
+                    "name": "Kacchi Biryani",
+                    "image": "https://i.postimg.cc/qqLTxRC9/kacchi.jpg",
+                    "ingredients": [
+                        "Mutton",
+                        "Basmati Rice",
+                        "Onion",
+                        "Garlic",
+                        "Ginger",
+                        "Bay Leaf",
+                        "Cinnamon",
+                        "Cardamom",
+                        "Cloves",
+                        "Yogurt",
+                        "Oil",
+                        "Water"
+                    ],
+                    "instructions": [
+                        "Soak the rice in water for 30 minutes.",
+                        "Marinate the mutton with yogurt, garlic, ginger, and spices.",
+                        "Fry the onions in oil until golden brown.",
+                        "Add the marinated mutton and cook until the meat is tender.",
+                        "Boil the rice with spices and water.",
+                        "Layer the rice and meat in a pot and cook on low heat for 30 minutes.",
+                        "Serve hot with raita and salad."
+                    ]
+                },
+                {
+                    "recipeId": 2,
+                    "name": "Shorshe Ilish",
+                    "image": "https://i.postimg.cc/QtcsVSNN/ilish.jpg",
+                    "ingredients": [
+                        "Hilsa fish",
+                        "Mustard oil",
+                        "Mustard seeds",
+                        "Green chili",
+                        "Turmeric powder",
+                        "Salt",
+                        "Sugar",
+                        "Water"
+                    ],
+                    "instructions": [
+                        "Marinate the fish with salt and turmeric powder.",
+                        "Fry the fish in mustard oil.",
+                        "In a separate pan, add mustard seeds, green chili, and water.",
+                        "Add the fried fish to the pan and cook for a few minutes.",
+                        "Add sugar to taste.",
+                        "Serve hot with steamed rice."
+                    ]
+                },
+                {
+                    "recipeId": 3,
+                    "name": "Mishti Doi",
+                    "image": "https://i.postimg.cc/ryCMkhYQ/doi.jpg",
+                    "ingredients": [
+                        "Milk",
+                        "Sugar",
+                        "Yogurt"
+                    ],
+                    "instructions": [
+                        "Boil the milk and reduce it to half.",
+                        "Add sugar and stir until it dissolves.",
+                        "Let the milk cool down to room temperature.",
+                        "Add yogurt and mix well.",
+                        "Pour the mixture into earthen pots and keep it in a warm place for 6-8 hours.",
+                        "Refrigerate for a few hours before serving."
+                    ]
+                },
+                {
+                    "recipeId": 4,
+                    "name": "Shutki Bhorta",
+                    "image": "https://i.postimg.cc/fTq4z17j/shutki.jpg",
+                    "ingredients": [
+                        "Dried Fish",
+                        "Onion",
+                        "Garlic",
+                        "Green chili",
+                        "Mustard oil",
+                        "Salt"
+                    ],
+                    "instructions": [
+                        "Soak the dried fish in water for 30 minutes.",
+                        "Boil the fish until it is soft.",
+                        "Fry the onions, garlic, and green chili in mustard oil.",
+                        "Add the boiled fish to the pan and mash it with a fork.",
+                        "Add salt to taste.",
+                        "Serve hot with steamed rice."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Ananta Jalil",
+            "picture": "https://i.postimg.cc/cLPvP9rX/chef-03.jpg",
+            "bio": "Ananta Jalil is a young and talented chef from Dhaka who specializes in fusion cuisine with a unique twist.",
+            "rating": 4.2,
+            "yearsOfExperience": 5,
+            "like": 8000,
+            "recipes": [
+                {
+                    "recipeId": 1,
+                    "name": "Prawn Malai Curry",
+                    "image": "https://i.postimg.cc/qRcVpRQz/prawn.jpg",
+                    "ingredients": [
+                        "Prawns",
+                        "Coconut milk",
+                        "Onion",
+                        "Garlic",
+                        "Ginger",
+                        "Turmeric powder",
+                        "Cumin powder",
+                        "Coriander powder",
+                        "Chili powder",
+                        "Mustard oil",
+                        "Salt"
+                    ],
+                    "instructions": [
+                        "Heat mustard oil in a pan and fry the onions until golden brown.",
+                        "Add garlic, ginger, and spices and fry for a minute.",
+                        "Add prawns and cook until they turn pink.",
+                        "Add coconut milk and salt to taste.",
+                        "Simmer for a few minutes until the curry thickens.",
+                        "Serve hot with steamed rice."
+                    ]
+                },
+                {
+                    "recipeId": 2,
+                    "name": "Chicken Kacchi Biryani",
+                    "image": "https://i.postimg.cc/wMHzNJ3X/chicken-briyani.jpg",
+                    "ingredients": [
+                        "Chicken",
+                        "Basmati rice",
+                        "Onion",
+                        "Garlic",
+                        "Ginger",
+                        "Bay leaf",
+                        "Cinnamon",
+                        "Cardamom",
+                        "Cloves",
+                        "Yogurt",
+                        "Ghee",
+                        "Water",
+                        "Salt"
+                    ],
+                    "instructions": [
+                        "Marinate the chicken with yogurt, garlic, ginger, and spices.",
+                        "Soak the rice in water for 30 minutes.",
+                        "Fry the onions until golden brown.",
+                        "Boil the rice with spices and water.",
+                        "Layer the marinated chicken and rice in a pot.",
+                        "Add ghee and fried onions on top.",
+                        "Cover the pot with a lid and cook on low heat for 1 hour.",
+                        "Serve hot with raita and salad."
+                    ]
+                },
+                {
+                    "recipeId": 3,
+                    "name": "Chocolate Sandesh",
+                    "image": "https://i.postimg.cc/T3HTspHx/chocolate.jpg",
+                    "ingredients": [
+                        "Cottage cheese",
+                        "Sugar",
+                        "Cocoa powder",
+                        "Cardamom powder"
+                    ],
+                    "instructions": [
+                        "Knead cottage cheese until smooth.",
+                        "Add sugar and cocoa powder and knead until well combined.",
+                        "Shape the mixture into small balls.",
+                        "Sprinkle cardamom powder on top.",
+                        "Refrigerate for 30 minutes.",
+                        "Serve chilled."
+                    ]
+                },
+                {
+                    "recipeId": 4,
+                    "name": "Mishti Doi",
+                    "image": "https://i.postimg.cc/ryCMkhYQ/doi.jpg",
+                    "ingredients": [
+                        "Milk",
+                        "Sugar",
+                        "Yogurt"
+                    ],
+                    "instructions": [
+                        "Boil the milk and reduce it to half.",
+                        "Add sugar and stir until it dissolves.",
+                        "Let the milk cool down to room temperature.",
+                        "Add yogurt and mix well.",
+                        "Pour the mixture into earthen pots and keep it in a warm place for 6-8 hours.",
+                        "Refrigerate for a few hours before serving."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Shakib Khan",
+            "picture": "https://i.postimg.cc/DZT8wSQG/chef-04.jpg",
+            "bio": "Shakib Khan is a renowned chef from Chittagong who specializes in seafood and local delicacies.",
+            "rating": 4.8,
+            "yearsOfExperience": 15,
+            "like": 12000,
+            "recipes": [
+                {
+                    "recipeId": 1,
+                    "name": "Rupchanda Bhaja",
+                    "image": "https://i.postimg.cc/h4rWwXfY/rupchada.jpg",
+                    "ingredients": [
+                        "Rupchanda fish",
+                        "Turmeric powder",
+                        "Chili powder",
+                        "Salt",
+                        "Mustard oil"
+                    ],
+                    "instructions": [
+                        "Marinate the fish with turmeric powder, chili powder, and salt.",
+                        "Heat mustard oil in a pan.",
+                        "Fry the fish until golden brown.",
+                        "Serve hot with steamed rice and lemon wedges."
+                    ]
+                },
+                {
+                    "recipeId": 2,
+                    "name": "Shorshe Ilish",
+                    "image": "https://i.postimg.cc/QtcsVSNN/ilish.jpg",
+                    "ingredients": [
+                        "Hilsa fish",
+                        "Mustard seeds",
+                        "Turmeric powder",
+                        "Chili powder",
+                        "Green chilies",
+                        "Mustard oil",
+                        "Salt"
+                    ],
+                    "instructions": [
+                        "Grind mustard seeds, green chilies, turmeric powder, and chili powder into a paste.",
+                        "Marinate the fish with the mustard paste and salt.",
+                        "Heat mustard oil in a pan.",
+                        "Fry the fish in the oil until cooked.",
+                        "Serve hot with steamed rice."
+                    ]
+                },
+                {
+                    "recipeId": 3,
+                    "name": "Chittagong Mezban Beef Curry",
+                    "image": "https://i.postimg.cc/RhMrhBbG/mejban.jpg",
+                    "ingredients": [
+                        "Beef",
+                        "Onion",
+                        "Garlic",
+                        "Ginger",
+                        "Turmeric powder",
+                        "Chili powder",
+                        "Cumin powder",
+                        "Coriander powder",
+                        "Bay leaf",
+                        "Cinnamon",
+                        "Cardamom",
+                        "Cloves",
+                        "Potatoes",
+                        "Mustard oil",
+                        "Salt"
+                    ],
+                    "instructions": [
+                        "Cut the beef and potatoes into cubes.",
+                        "Marinate the beef with garlic, ginger, and spices.",
+                        "Fry the onions until golden brown.",
+                        "Add the marinated beef and fry for a few minutes.",
+                        "Add water and potatoes and simmer until the beef is tender.",
+                        "Serve hot with steamed rice."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Bappa Raj",
+            "picture": "https://i.postimg.cc/4xYKLkNY/chef-05.jpg",
+            "bio": "Bappa Raj is a master chef from Dhaka who specializes in vegetarian and vegan cuisine.",
+            "rating": 4.9,
+            "yearsOfExperience": 20,
+            "like": 15000,
+            "recipes": [
+                {
+                    "recipeId": 1,
+                    "name": "Daal Bhaji",
+                    "image": "https://i.postimg.cc/LsYmF2r1/dal.jpg",
+                    "ingredients": [
+                        "Yellow lentils",
+                        "Onion",
+                        "Garlic",
+                        "Ginger",
+                        "Green chilies",
+                        "Cumin powder",
+                        "Coriander powder",
+                        "Turmeric powder",
+                        "Salt",
+                        "Oil"
+                    ],
+                    "instructions": [
+                        "Soak the lentils in water for 1 hour.",
+                        "Drain the water and grind the lentils with onion, garlic, ginger, and green chilies into a paste.",
+                        "Add cumin powder, coriander powder, turmeric powder, and salt to the paste.",
+                        "Mix well.",
+                        "Heat oil in a pan.",
+                        "Drop spoonfuls of the mixture into the hot oil and fry until golden brown.",
+                        "Serve hot with mint chutney."
+                    ]
+                },
+                {
+                    "recipeId": 2,
+                    "name": "Palong Shaak Bhaja",
+                    "image": "https://i.postimg.cc/8CRNztzp/palong.jpg",
+                    "ingredients": [
+                        "Spinach",
+                        "Onion",
+                        "Garlic",
+                        "Green chilies",
+                        "Oil",
+                        "Salt"
+                    ],
+                    "instructions": [
+                        "Clean and chop the spinach leaves.",
+                        "Finely chop the onion, garlic, and green chilies.",
+                        "Heat oil in a pan.",
+                        "Add onion, garlic, and green chilies and fry until golden brown.",
+                        "Add the spinach leaves and salt.",
+                        "Stir-fry until the spinach is wilted and cooked.",
+                        "Serve hot with steamed rice."
+                    ]
+                },
+                {
+                    "recipeId": 3,
+                    "name": "Vegetable Biriyani",
+                    "image": "https://i.postimg.cc/bwZ7sL3X/veg-biryani.jpg",
+                    "ingredients": [
+                        "Basmati rice",
+                        "Mixed vegetables",
+                        "Onion",
+                        "Garlic",
+                        "Ginger",
+                        "Tomato",
+                        "Cumin powder",
+                        "Coriander powder",
+                        "Turmeric powder",
+                        "Chili powder",
+                        "Ghee",
+                        "Salt"
+                    ],
+                    "instructions": [
+                        "Soak the rice in water for 30 minutes.",
+                        "Drain the water and set aside.",
+                        "Heat ghee in a pan.",
+                        "Fry sliced onions until golden brown.",
+                        "Add garlic, ginger, and tomatoes and fry until the tomatoes are soft.",
+                        "Add mixed vegetables and spices.",
+                        "Fry for a few minutes.",
+                        "Add the soaked rice and fry for a few more minutes.",
+                        "Add water and salt.",
+                        "Cover and cook until the rice is done.",
+                        "Serve hot with raita."
+                    ]
+                },
+                {
+                    "recipeId": 4,
+                    "name": "Mishti Doi",
+                    "image": "https://i.postimg.cc/ryCMkhYQ/doi.jpg",
+                    "ingredients": [
+                        "Milk",
+                        "Sugar",
+                        "Yogurt"
+                    ],
+                    "instructions": [
+                        "Boil the milk and reduce it to half.",
+                        "Add sugar and stir until it dissolves.",
+                        "Let the milk cool down to room temperature.",
+                        "Add yogurt and mix well.",
+                        "Pour the mixture into earthen pots and keep it in a warm place for 6-8 hours.",
+                        "Refrigerate for a few hours before serving."
+                    ]
+                },
+                {
+                    "recipeId": 5,
+                    "name": "Chittagong Mezban Beef Curry",
+                    "image": "https://i.postimg.cc/RhMrhBbG/mejban.jpg",
+                    "ingredients": [
+                        "Beef",
+                        "Onion",
+                        "Garlic",
+                        "Ginger",
+                        "Turmeric powder",
+                        "Chili powder",
+                        "Cumin powder",
+                        "Coriander powder",
+                        "Bay leaf",
+                        "Cinnamon",
+                        "Cardamom",
+                        "Cloves",
+                        "Potatoes",
+                        "Mustard oil",
+                        "Salt"
+                    ],
+                    "instructions": [
+                        "Cut the beef and potatoes into cubes.",
+                        "Marinate the beef with garlic, ginger, and spices.",
+                        "Fry the onions until golden brown.",
+                        "Add the marinated beef and fry for a few minutes.",
+                        "Add water and potatoes and simmer until the beef is tender.",
+                        "Serve hot with steamed rice."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Omar Sani",
+            "picture": "https://i.postimg.cc/QM5FDQ7s/chef-06.jpg",
+            "bio": "Omar Sani is a young and talented chef from Chittagong who specializes in seafood and fusion cuisine.",
+            "rating": 4.5,
+            "yearsOfExperience": 5,
+            "like": 5000,
+            "recipes": [
+                {
+                    "recipeId": 1,
+                    "name": "Chittagong Fish Curry",
+                    "image": "https://i.postimg.cc/02kx2pTx/fish.jpg",
+                    "ingredients": [
+                        "Fish",
+                        "Onion",
+                        "Garlic",
+                        "Ginger",
+                        "Tomato",
+                        "Cumin powder",
+                        "Coriander powder",
+                        "Turmeric powder",
+                        "Chili powder",
+                        "Mustard oil",
+                        "Salt"
+                    ],
+                    "instructions": [
+                        "Clean and cut the fish into pieces.",
+                        "Marinate the fish with salt and turmeric powder.",
+                        "Heat mustard oil in a pan.",
+                        "Fry the fish until golden brown and set aside.",
+                        "In the same pan, add onion, garlic, and ginger.",
+                        "Fry until golden brown.",
+                        "Add tomato and fry until it becomes soft.",
+                        "Add cumin powder, coriander powder, turmeric powder, and chili powder.",
+                        "Add a little water and cook until the masala is cooked.",
+                        "Add fried fish to the masala and mix well.",
+                        "Cover and cook for 5 minutes on low heat.",
+                        "Serve hot with steamed rice."
+                    ]
+                },
+                {
+                    "recipeId": 2,
+                    "name": "Prawn Malai Curry",
+                    "image": "https://i.postimg.cc/qRcVpRQz/prawn.jpg",
+                    "ingredients": [
+                        "Prawns",
+                        "Coconut milk",
+                        "Onion",
+                        "Garlic",
+                        "Ginger",
+                        "Green chilies",
+                        "Garam masala",
+                        "Turmeric powder",
+                        "Mustard oil",
+                        "Salt"
+                    ],
+                    "instructions": [
+                        "Clean and devein the prawns.",
+                        "Heat mustard oil in a pan.",
+                        "Fry the prawns until light brown and set aside.",
+                        "In the same pan, add onion, garlic, ginger, and green chilies.",
+                        "Fry until golden brown.",
+                        "Add turmeric powder and garam masala.",
+                        "Fry for a minute.",
+                        "Add coconut milk and salt.",
+                        "Cook until the curry thickens.",
+                        "Add the prawns to the curry and cook for 5 minutes.",
+                        "Serve hot with steamed rice."
+                    ]
+                },
+                {
+                    "recipeId": 3,
+                    "name": "Fusion Noodles",
+                    "image": "https://i.postimg.cc/B6ffWDTr/noodles.jpg",
+                    "ingredients": [
+                        "Noodles",
+                        "Mixed vegetables",
+                        "Egg",
+                        "Onion",
+                        "Garlic",
+                        "Ginger",
+                        "Soy sauce",
+                        "Vinegar",
+                        "Chili sauce",
+                        "Salt",
+                        "Oil"
+                    ],
+                    "instructions": [
+                        "Boil the noodles in water until they are cooked.",
+                        "Drain the water and set aside.",
+                        "Heat oil in a pan.",
+                        "Add chopped onion, garlic, and ginger.",
+                        "Fry until golden brown.",
+                        "Add mixed vegetables and fry until they are cooked.",
+                        "Push the vegetables to the side of the pan and add an egg.",
+                        "Scramble the egg and mix it with the vegetables.",
+                        "Add cooked noodles, soy sauce, vinegar, chili sauce, and salt.",
+                        "Mix well and fry for a few minutes.",
+                        "Serve hot."
+                    ]
+                }
+            ]
+        }
+    ]
